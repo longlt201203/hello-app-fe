@@ -9,4 +9,4 @@ spec:
     app: hello-app-fe
   ports:
   - port: 8080
-    targetPort: 80
+    targetPort: 8080
