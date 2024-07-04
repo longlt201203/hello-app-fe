@@ -4,7 +4,7 @@ metadata:
   namespace: default
   name: hello-app-fe-deployment
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: hello-app-fe
